@@ -1,0 +1,1 @@
+Te falta tu git ignore :)
